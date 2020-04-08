@@ -236,7 +236,6 @@ main {
   font-weight: 300;
   color: #222;
   line-height: 1.9em;
-  display : none;
   a {
     color: $linkColor;
     text-decoration: none;
@@ -251,6 +250,7 @@ main {
   h4,
   h5,
   h6 {
+    display : none;
     font-family: Raleway, sans-serif;
   }
 }
