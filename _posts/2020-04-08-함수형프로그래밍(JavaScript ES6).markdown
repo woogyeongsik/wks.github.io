@@ -2,15 +2,13 @@
 layout: post
 title:  "ES6 함수형 문법 공부하기"
 date:   2020-04-08 14:40
-categories: GitHub jeykyll Ruby
+categories: JavaScript JS ES6
 ---
-함수형 프로그래밍 연습하기(Infren 이용)
+# 함수형 프로그래밍
 
-===
+<hr>
 
-<hr/>
-
-ES6
+## 함수형프로그래밍 1일차
 
 ---
 
