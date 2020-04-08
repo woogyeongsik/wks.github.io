@@ -1,10 +1,24 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "Window기반 jekyll 설치하기(Github 연동)"
+date:   2019-04-08 14:40
+categories: GitHub jeykyll Ruby
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+### 윈도우 기반 지킬 설치하기
+
+<hr/>
+
+#### What I learned today
+
+- github repository 생성
+
+- jekyll Theme 선택 후 fork 진행  테마는 아래 클릭
+
+  [http://jekyllthemes.org/]: 여기
+
+  
+
+
 
 ```javascript
 const Razorpay = require('razorpay');
