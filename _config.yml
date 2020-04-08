@@ -19,7 +19,7 @@ plainwhite:
   url : https://woogyeongsik.github.io
   # generate social links in footer
   social_links:
-    twitter: thelehhman
+    # twitter: thelehhman
     github:  woogyeongsik
     rss: rss
     # dribbble: jekyll
