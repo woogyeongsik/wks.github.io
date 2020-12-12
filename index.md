@@ -1,7 +1,3 @@
----
-layout : home, page, post 
----
-
----
-layout : dd
----
+--- ---
+layout : home, page, post
+--- ---
