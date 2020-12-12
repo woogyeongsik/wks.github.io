@@ -1,3 +1,7 @@
 ---
-layout:  post |ㅇㅇ|
+layout:  post 
 ---
+
+
+|--|
+|dd|
