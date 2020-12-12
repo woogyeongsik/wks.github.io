@@ -1,3 +1,3 @@
 ---
-layout: home, pages
+layout:  page
 ---
