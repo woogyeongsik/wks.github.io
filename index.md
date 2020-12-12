@@ -1,7 +1,3 @@
----
-layout:  post 
----
-
-
-|--|
-|dd|
+|layout|
+|---|
+|post|
